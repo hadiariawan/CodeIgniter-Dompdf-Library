@@ -1,0 +1,5 @@
+HOW TO USE
+-------------------------------------
+1. Download latest dompdf from http://code.google.com/p/dompdf/
+2. extract and copy all files to codeigniter application library
+3. copy the dompdf_lib.php file to codeigniter application library
